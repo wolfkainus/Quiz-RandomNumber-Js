@@ -1,2 +1,1 @@
-# f
-ff
+Simple Quiz RandomNumber Js
